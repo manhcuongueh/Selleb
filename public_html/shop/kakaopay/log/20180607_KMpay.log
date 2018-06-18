@@ -1,0 +1,180 @@
+[2018/06/07 16:44:00] Request
+[2018/06/07 16:44:00] {"PR_TYPE":"WPM","CHANNEL_TYPE":"4","MERCHANT_ID":"cnstest25m","MERCHANT_TXN_NUM":"18060716435488","PRODUCT_NAME":"테스트입니다","AMOUNT":"17500","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"Y","OFFER_PERIOD":"제품표시일까지","NO_INT_YN":"N","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"N","POSSI_CARD":"","BLOCK_CARD":"","PAYMENT_HASH":"7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A"}
+[2018/06/07 16:44:00] 
+                      [PR_TYPE] => WPM
+                      [CHANNEL_TYPE] => 4
+                      [MERCHANT_TXN_NUM] => 18060716435488
+                      [PRODUCT_NAME] => 테스트입니다
+                      [AMOUNT] => 17500
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => Y
+                      [OFFER_PERIOD] => 제품표시일까지
+                      [NO_INT_YN] => N
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => N
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [PAYMENT_HASH] => 7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A
+[2018/06/07 16:44:07] Request
+[2018/06/07 16:44:07] {"PR_TYPE":"WPM","CHANNEL_TYPE":"4","MERCHANT_ID":"cnstest25m","MERCHANT_TXN_NUM":"18060716435488","PRODUCT_NAME":"테스트입니다","AMOUNT":"17500","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"Y","OFFER_PERIOD":"제품표시일까지","NO_INT_YN":"N","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"N","POSSI_CARD":"","BLOCK_CARD":"","PAYMENT_HASH":"7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A"}
+[2018/06/07 16:44:07] 
+                      [PR_TYPE] => WPM
+                      [CHANNEL_TYPE] => 4
+                      [MERCHANT_TXN_NUM] => 18060716435488
+                      [PRODUCT_NAME] => 테스트입니다
+                      [AMOUNT] => 17500
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => Y
+                      [OFFER_PERIOD] => 제품표시일까지
+                      [NO_INT_YN] => N
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => N
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [PAYMENT_HASH] => 7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A
+[2018/06/07 16:44:14] Request
+[2018/06/07 16:44:14] {"PR_TYPE":"WPM","CHANNEL_TYPE":"4","MERCHANT_ID":"cnstest25m","MERCHANT_TXN_NUM":"18060716435488","PRODUCT_NAME":"테스트입니다","AMOUNT":"17500","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"Y","OFFER_PERIOD":"제품표시일까지","NO_INT_YN":"N","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"N","POSSI_CARD":"","BLOCK_CARD":"","PAYMENT_HASH":"7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A"}
+[2018/06/07 16:44:14] 
+                      [PR_TYPE] => WPM
+                      [CHANNEL_TYPE] => 4
+                      [MERCHANT_TXN_NUM] => 18060716435488
+                      [PRODUCT_NAME] => 테스트입니다
+                      [AMOUNT] => 17500
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => Y
+                      [OFFER_PERIOD] => 제품표시일까지
+                      [NO_INT_YN] => N
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => N
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [PAYMENT_HASH] => 7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A
+[2018/06/07 16:44:15] Request
+[2018/06/07 16:44:15] {"PR_TYPE":"WPM","CHANNEL_TYPE":"4","MERCHANT_ID":"cnstest25m","MERCHANT_TXN_NUM":"18060716435488","PRODUCT_NAME":"테스트입니다","AMOUNT":"17500","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"Y","OFFER_PERIOD":"제품표시일까지","NO_INT_YN":"N","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"N","POSSI_CARD":"","BLOCK_CARD":"","PAYMENT_HASH":"7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A"}
+[2018/06/07 16:44:15] 
+                      [PR_TYPE] => WPM
+                      [CHANNEL_TYPE] => 4
+                      [MERCHANT_TXN_NUM] => 18060716435488
+                      [PRODUCT_NAME] => 테스트입니다
+                      [AMOUNT] => 17500
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => Y
+                      [OFFER_PERIOD] => 제품표시일까지
+                      [NO_INT_YN] => N
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => N
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [PAYMENT_HASH] => 7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A
+[2018/06/07 16:44:17] Request
+[2018/06/07 16:44:17] {"PR_TYPE":"WPM","CHANNEL_TYPE":"4","MERCHANT_ID":"cnstest25m","MERCHANT_TXN_NUM":"18060716435488","PRODUCT_NAME":"테스트입니다","AMOUNT":"17500","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"Y","OFFER_PERIOD":"제품표시일까지","NO_INT_YN":"N","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"N","POSSI_CARD":"","BLOCK_CARD":"","PAYMENT_HASH":"7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A"}
+[2018/06/07 16:44:17] 
+                      [PR_TYPE] => WPM
+                      [CHANNEL_TYPE] => 4
+                      [MERCHANT_TXN_NUM] => 18060716435488
+                      [PRODUCT_NAME] => 테스트입니다
+                      [AMOUNT] => 17500
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => Y
+                      [OFFER_PERIOD] => 제품표시일까지
+                      [NO_INT_YN] => N
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => N
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [PAYMENT_HASH] => 7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A
+[2018/06/07 16:44:18] Request
+[2018/06/07 16:44:18] {"PR_TYPE":"WPM","CHANNEL_TYPE":"4","MERCHANT_ID":"cnstest25m","MERCHANT_TXN_NUM":"18060716435488","PRODUCT_NAME":"테스트입니다","AMOUNT":"17500","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"Y","OFFER_PERIOD":"제품표시일까지","NO_INT_YN":"N","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"N","POSSI_CARD":"","BLOCK_CARD":"","PAYMENT_HASH":"7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A"}
+[2018/06/07 16:44:18] 
+                      [PR_TYPE] => WPM
+                      [CHANNEL_TYPE] => 4
+                      [MERCHANT_TXN_NUM] => 18060716435488
+                      [PRODUCT_NAME] => 테스트입니다
+                      [AMOUNT] => 17500
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => Y
+                      [OFFER_PERIOD] => 제품표시일까지
+                      [NO_INT_YN] => N
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => N
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [PAYMENT_HASH] => 7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A
+[2018/06/07 16:44:19] Request
+[2018/06/07 16:44:19] {"PR_TYPE":"WPM","CHANNEL_TYPE":"4","MERCHANT_ID":"cnstest25m","MERCHANT_TXN_NUM":"18060716435488","PRODUCT_NAME":"테스트입니다","AMOUNT":"17500","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"Y","OFFER_PERIOD":"제품표시일까지","NO_INT_YN":"N","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"N","POSSI_CARD":"","BLOCK_CARD":"","PAYMENT_HASH":"7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A"}
+[2018/06/07 16:44:19] 
+                      [PR_TYPE] => WPM
+                      [CHANNEL_TYPE] => 4
+                      [MERCHANT_TXN_NUM] => 18060716435488
+                      [PRODUCT_NAME] => 테스트입니다
+                      [AMOUNT] => 17500
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => Y
+                      [OFFER_PERIOD] => 제품표시일까지
+                      [NO_INT_YN] => N
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => N
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [PAYMENT_HASH] => 7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A
+[2018/06/07 16:44:21] Request
+[2018/06/07 16:44:21] {"PR_TYPE":"WPM","CHANNEL_TYPE":"4","MERCHANT_ID":"cnstest25m","MERCHANT_TXN_NUM":"18060716435488","PRODUCT_NAME":"테스트입니다","AMOUNT":"17500","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"Y","OFFER_PERIOD":"제품표시일까지","NO_INT_YN":"N","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"N","POSSI_CARD":"","BLOCK_CARD":"","PAYMENT_HASH":"7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A"}
+[2018/06/07 16:44:21] 
+                      [PR_TYPE] => WPM
+                      [CHANNEL_TYPE] => 4
+                      [MERCHANT_TXN_NUM] => 18060716435488
+                      [PRODUCT_NAME] => 테스트입니다
+                      [AMOUNT] => 17500
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => Y
+                      [OFFER_PERIOD] => 제품표시일까지
+                      [NO_INT_YN] => N
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => N
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [PAYMENT_HASH] => 7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A
+[2018/06/07 16:44:22] Request
+[2018/06/07 16:44:22] {"PR_TYPE":"WPM","CHANNEL_TYPE":"4","MERCHANT_ID":"cnstest25m","MERCHANT_TXN_NUM":"18060716435488","PRODUCT_NAME":"테스트입니다","AMOUNT":"17500","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"Y","OFFER_PERIOD":"제품표시일까지","NO_INT_YN":"N","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"N","POSSI_CARD":"","BLOCK_CARD":"","PAYMENT_HASH":"7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A"}
+[2018/06/07 16:44:22] 
+                      [PR_TYPE] => WPM
+                      [CHANNEL_TYPE] => 4
+                      [MERCHANT_TXN_NUM] => 18060716435488
+                      [PRODUCT_NAME] => 테스트입니다
+                      [AMOUNT] => 17500
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => Y
+                      [OFFER_PERIOD] => 제품표시일까지
+                      [NO_INT_YN] => N
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => N
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [PAYMENT_HASH] => 7784680C8FB4A6C1EFE81A0063BEB01C8C7302CB1D168F3ABCAB6BF256F64F3A

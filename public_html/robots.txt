@@ -1,0 +1,6 @@
+User-agent: Yeti
+Allow: /
+Disallow: /private */
+Disallow: /admin/
+Disallow: /mypage/
+Disallow: /data/
