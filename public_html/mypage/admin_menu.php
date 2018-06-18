@@ -1,0 +1,81 @@
+<?php
+define("_TUBEWEB_", TRUE);
+
+if(in_array($code, array(
+	'seller_main',
+	'seller_info',
+	'seller_conf',
+	'seller_goods_list',
+	'seller_goods_form',
+	'seller_goods_stock',
+	'seller_goods_optstock',
+	'seller_goods_xls_reg',
+	'seller_goods_xls_reg_update',
+	'seller_goods_xls_mod',
+	'seller_goods_xls_mod_update',
+	'seller_goods_brand',
+	'seller_goods_brand_form',
+	'seller_goods_qa',
+	'seller_goods_qa_form',
+	'seller_goods_review',
+	'seller_stats',			
+	'seller_present',
+	'seller_odr',
+	'seller_odr_memo',
+	'seller_odr_cancel'))) {
+	include_once("admin_snb1.php");
+} else if(in_array($boardid, array('20','21'))) {
+	include_once("admin_snb1.php");
+} else if(in_array($code, array(
+	'partner_info',
+	'partner_term',
+	'partner_meta',
+	'partner_sns',
+	'partner_conf',
+	'partner_agree',
+	'partner_keyword',
+	'partner_pg',
+	'partner_kakaopay',
+	'partner_naverpay',
+	'partner_logo',
+	'partner_slider_list',
+	'partner_slider_form',
+	'partner_banner_list',
+	'partner_banner_form',
+	'partner_best_item',
+	'partner_popup_list',
+	'partner_popup_form',		
+	'partner_member_list',
+	'partner_register_form',
+	'partner_tree',
+	'partner_stats',
+	'partner_stats_day',
+	'partner_stats_month',	
+	'partner_visit',
+	'partner_goods_admlist',
+	'partner_order_admlist',
+	'partner_goods_type',
+	'partner_category',
+	'partner_category_view',
+	'partner_record',
+	'partner_goods_brand',
+	'partner_goods_brand_form',
+	'partner_goods_form',
+	'partner_goods_list',
+	'partner_goods_stock',
+	'partner_goods_optstock',
+	'partner_goods_review',
+	'partner_goods_xls_reg',
+	'partner_goods_xls_reg_update',
+	'partner_goods_xls_mod',
+	'partner_goods_xls_mod_update',
+	'partner_goods_qa',
+	'partner_goods_qa_form',
+	'partner_odr',
+	'partner_odr_memo',
+	'partner_odr_cancel'))) {
+	include_once("admin_snb2.php");
+} else if(in_array($boardid, array('22','36'))) {
+	include_once("admin_snb2.php");
+}
+?>

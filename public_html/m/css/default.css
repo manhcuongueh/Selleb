@@ -1,0 +1,16 @@
+@charset "utf-8";
+@import url("/css/reset.css");
+@import url("/css/basic.css");
+@import url("/css/button.css");
+@import url("/css/font-awesome.css");
+@import url("/css/ionicons.css");
+
+/* ÆË¾÷·¹ÀÌ¾î */
+#hd_pop {z-index:9999;position:absolute;top:101px;margin:0 auto;width:100%;text-align:center;}
+#hd_pop h2 {position:absolute;font-size:0;text-indent:-9999em;line-height:0;overflow:hidden}
+.hd_pops {background:#fff;border:2px solid #000;display:inline-block;}
+.hd_pops_con {}
+.hd_pops_con img{min-width:100%;}
+.hd_pops_footer {padding:10px 0;background:#000;color:#fff;text-align:right}
+.hd_pops_footer button {font-size:12px;line-height:1em;margin-right:5px;padding:5px 10px;border:0;background:#393939;color:#fff}
+.sound_only {display:inline-block;position:absolute;top:0;left:0;margin:0 !important;padding:0 !important;width:1px !important;height:1px !important;font-size:0 !important;line-height:0 !important;overflow:hidden}
