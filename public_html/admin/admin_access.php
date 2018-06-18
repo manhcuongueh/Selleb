@@ -27,4 +27,5 @@ if($admin_id) {
 if(!is_admin()) {
 	alert('관리자 권한이 없습니다.', TW_URL);
 }
+# this is comments from manh
 ?>
